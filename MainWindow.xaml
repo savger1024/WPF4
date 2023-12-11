@@ -16,6 +16,7 @@
             Content="Hi"
             ></Button>
         <TextBlock x:Name="myTextBlock" TextWrapping="Wrap">lorej tzug b ghfjtzfk gzughkjg <Span Foreground="Aqua">gkukjhzkug zthgfztgug gukhguhgz</Span> gzuhgzugkg gzkghgjzgzu zughjf</TextBlock>
+        <TextBlock>23.12.11.:</TextBlock>
         <Label Margin="16,16,16,0"
                BorderThickness="1"
                BorderBrush="Black">
